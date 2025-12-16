@@ -17,6 +17,15 @@ Design a marketing strategy aimed to convert casual riders into annual members.
 
 ## Data Source
 I will be using the historical data from 2020 Q1 that will cover from January to March of 2020. 
-I will be using excel to do a base cleaning and will be using BigQuery(SQL) for all the data exploration
+I will be using excel to do a base cleaning and will be using BigQuery(SQL) for all the data exploration.
+
+## Project Roadmap
+* Remove duplicates/Remove null cells in excel.
+* Create a ride_length and day_of_week column in excel to help find out how long a ride was and what day was it.
+* Move everything to BigQuery SQL for more data exploration.
+* Create data visualization/charts to help read through the data.
+* Create recommendations to help answer the questions/problem and grow the business.
+
+## Conclusion
 
 
