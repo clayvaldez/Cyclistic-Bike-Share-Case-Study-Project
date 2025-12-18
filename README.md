@@ -51,7 +51,17 @@ Casual Riders, by contrast, exhibit higher usage on weekends and have a substant
 Seasonal trends further differentiate the two groups. From January to March, Annual Member usage declines while Casual Riders usage increases. This inverse relationship suggests that as weather conditions improve, Annual Members may substitute biking with other short distance transportation options, such as walking.
 Conversely, the increase in casual riders during warmer months indicates that favorable weather conditions are a key driver for recreational and fitness related bike usage. 
 
-## Recommendation
+## Recommendations
+Based on the data showings, there are a few recommendations to help covert Casual Riders to Annual Members.
+* Target Casual Riders During Peak Usage
+  * Marketing campaigns should be concentrated on weekends and warmer motnths, using in-app notifications or station-based messaging when casual riders are most engage.
+  * Emphasize on fitness and lifestyle as is appears Casual Riders are using Cyclistic for more recreation and fitness purposes.
+  * Highlighting goal tracking and health benefits. 
+* Highlight Cost Savings for Long-Duration Riders and Loyalty Incentives
+  * Offer incentives such as ride credits, free unlocks, or loyalty points after a certain number of rider or distance is reach.
+* Seasonal or Trail Memberships
+  * Offer seasonal membership or one month trails that allows casual riders to expericence member benefits without a full annual commitment.
+  
 
 
 
