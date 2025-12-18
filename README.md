@@ -37,7 +37,7 @@ I will be using excel to do a base cleaning and will be using BigQuery(SQL) for 
 * Create data visualization/charts to help read through the data.
 * Create recommendations to help answer the questions/problem and grow the business.
 
-## Conclusion
+## Data Findings
 In my data discovery, found out a list of insight that will help answer the three main question the company is asking for. 
 * Annual Members make up of 89% of the company vs Casual riders with 11%. 
 * Annaul Member use the Cyclistic bikes the most during the week Monday through Friday and falls off drastically on the weekends Vs Causal riders use Cyclistic bikes the most on the Weekends and are lower during the week. 
@@ -45,7 +45,15 @@ In my data discovery, found out a list of insight that will help answer the thre
 * The total of Annaul Members have been steadly decreasing from January to March vs Causal Riders increasing from January to March.
 * The most popular start/end stations are different from Annaul Members and Causal Riders
 
+## Conclusion
+The data shows a distinct usage patterns between Annual Members and Casual riders. Annual Members primarily use Cyclistic on weekdays, with an average ride duration of 11 minutes, indicating that their trips are largely point to point in nature. This pattern is consistent with commuting for transportation purposes.
+Casual Riders, by contrast, exhibit higher usage on weekends and have a substantially longer average ride duration of 43 minutes. This suggests that casual riders are more likely engaging in recreational or fitness oriented trips rather than transportation focused. 
+Seasonal trends further differentiate the two groups. From January to March, Annual Member usage declines while Casual Riders usage increases. This inverse relationship suggests that as weather conditions improve, Annual Members may substitute biking with other short distance transportation options, such as walking.
+Conversely, the increase in casual riders during warmer months indicates that favorable weather conditions are a key driver for recreational and fitness related bike usage. 
+
 ## Recommendation
+
+
 
 
 
