@@ -38,12 +38,17 @@ I will be using excel to do a base cleaning and will be using BigQuery(SQL) for 
 * Create recommendations to help answer the questions/problem and grow the business.
 
 ## Data Findings
-In my data discovery, found out a list of insight that will help answer the three main question the company is asking for. 
-* Annual Members make up of 89% of the company vs Casual riders with 11%. 
-* Annaul Member use the Cyclistic bikes the most during the week Monday through Friday and falls off drastically on the weekends Vs Causal riders use Cyclistic bikes the most on the Weekends and are lower during the week. 
-* Annual Members have a lot lower average ride lenght with 11 minutes vs Causal Riders average ride lenght with 43 minutes.
-* The total of Annaul Members have been steadly decreasing from January to March vs Causal Riders increasing from January to March.
-* The most popular start/end stations are different from Annaul Members and Causal Riders
+During the data discovery phase, several key insights were identified that help address the company's three primary business questions:
+* Membership Composition
+  * Annual Members account for 89% of total riders, while Casual Riders represent 11%.
+* Usage by Day of Week
+  * Annual Members primarily use Cyclistic bikes on weekdays Mon-Fri, with usage dropping significatly on weekends. In contrast, Casual Riders show peak usage on weekends and lower activity during the week.
+* Ride Duration
+  * Annual Members have a substantially shorter average ride lenght with 11 minutes compared to Causual Riders with 43 minutes. Indicating different trip purposes.
+* Seasonal Trends
+  * Annual Member ridership has steadily decreased from January to March, while Casual Riders have increased over the same period.
+* Station Preferences
+  * The most frequently used start and end stations differ between Annual Members and Casual Riders, suggesting distinct travel patterns and destinations.
 
 ## Conclusion
 The data shows a distinct usage patterns between Annual Members and Casual riders. Annual Members primarily use Cyclistic on weekdays, with an average ride duration of 11 minutes, indicating that their trips are largely point to point in nature. This pattern is consistent with commuting for transportation purposes.
@@ -52,7 +57,7 @@ Seasonal trends further differentiate the two groups. From January to March, Ann
 Conversely, the increase in casual riders during warmer months indicates that favorable weather conditions are a key driver for recreational and fitness related bike usage. 
 
 ## Recommendations
-Based on the data showings, there are a few recommendations to help covert Casual Riders to Annual Members.
+Based on the data insights the following recommendations aim to drive conversion from Casual Riders to Annual Members.
 * Target Casual Riders During Peak Usage
   * Marketing campaigns should be concentrated on weekends and warmer motnths, using in-app notifications or station-based messaging when casual riders are most engage.
   * Emphasize on fitness and lifestyle as is appears Casual Riders are using Cyclistic for more recreation and fitness purposes.
