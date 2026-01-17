@@ -58,6 +58,7 @@ Casual Riders, by contrast, exhibit higher usage on weekends and have a substant
 Seasonal trends further differentiate the two groups. From January to March, Annual Member usage declines while Casual Riders usage increases. This inverse relationship suggests that as weather conditions improve, Annual Members may substitute biking with other short distance transportation options, such as walking.
 Conversely, the increase in casual riders during warmer months indicates that favorable weather conditions are a key driver for recreational and fitness related bike usage. 
 
+
 ## Recommendations
 Based on the data insights the following recommendations aim to drive conversion from Casual Riders to Annual Members.
 * Target Casual Riders During Peak Usage
