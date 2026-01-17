@@ -8,7 +8,9 @@
 * Business Task
 * Data Source
 * Project Roadmap
+* Data Findings
 * Conclusion
+* Recommendations
 
 ## About The Company
 Cyclistic is a successful bike-share company that launched in 2016. They have grown to over five thousand bicycles and over six hundred stations across Chicago.
